@@ -1,4 +1,4 @@
-var name = "susan";
+var name = "Susan"
 //<<<<<<< HEAD
 var height = 70
 //=======
