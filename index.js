@@ -13,4 +13,7 @@ if (name==="Susan"){
   console.log("The name is Correct")
   
 }
+else {
+  Console.log("Expected the name to be Susan")
+}
 
